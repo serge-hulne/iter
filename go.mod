@@ -1,4 +1,4 @@
-module iter
+module iterate
 
 go 1.17
 
