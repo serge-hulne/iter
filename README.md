@@ -1,7 +1,7 @@
 
 # Iter tools for Go(Golang)
 
-## The stable version has beeb moved to : https://github.com/serge-hulne/go_iter
+## The stable version has been moved to : https://github.com/serge-hulne/go_iter
 
 Defines:
 - Filter
